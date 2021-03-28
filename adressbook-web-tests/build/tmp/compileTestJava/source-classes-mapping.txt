@@ -1,0 +1,2 @@
+ru/stqa/addressbook/GroupCreationTests.java
+ ru.stqa.addressbook.GroupCreationTests
